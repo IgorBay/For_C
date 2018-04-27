@@ -1,6 +1,6 @@
-#include <stdio.h>      /* printf */
-#include <string.h>     /* strcat */
-#include <stdlib.h>     /* strtol */
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
 char *byte_to_binary(int x);
 
 int main(void)
